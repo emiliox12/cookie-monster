@@ -1,0 +1,6 @@
+{
+	"appId": "io.cookie.monster",
+	"appName": "Cookie Monster",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
